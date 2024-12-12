@@ -1,0 +1,16 @@
+RipEnt by: CubicVirtuoso
+Map by: Hunter
+Utils used: BSPtwoMAP, Valve Hammer, Nemesis Compile tools, ZHLT
+
+------------------------------------
+
+RipEnt done on January 22/2008 
+Notes: 
+
+Just added multiple spawns, removed some things that didn't make too much sense in coop. Added the changelevel since these maps were two seperate packages. Added the end_game condition on killing the big momma
+
+------------------------------------
+
+DISCLAIMER:
+
+CubicVirtuoso takes no ownership over these maps. All copyrights and authorship are withheld by James Archibald AKA The Hunter. This map was simply converted to SvenCoop so many people at once can enjoy its greatness. 
