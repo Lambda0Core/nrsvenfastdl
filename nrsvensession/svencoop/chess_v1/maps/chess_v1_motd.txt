@@ -1,0 +1,28 @@
+==============================
+Chess
+------------------------------
+Map by Stromfuchs
+Chess system by the-middleman
+Special thanks to w00tguy
+==============================
+RNG - testing/additional content
+Sence - testing
+sprt - testing
+And few other people who I possibly can't remember.
+
+How this map works:
+
+- There are no built-in rules in this map because technical limitations,
+So knowledge of how to play chess is required.
+
+- However, there is detailed description and info of how every
+chess piece acts. Spend some time reading the legend.
+
+- Press one of the buttons at the corner of the board to join the game (Max. 2 players).
+
+- Press use to chess piece you want to move, it'll start to glow.
+Then go to desired spot and press use again to make the chess piece teleport into you.
+
+- 2 players can reset the game by starting a vote(Requires 100% of people answering yes).
+
+- Leaving the chess area drops you off the game(Walking in the dark red area).

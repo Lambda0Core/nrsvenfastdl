@@ -1,0 +1,57 @@
+ch_field       detail/rng/strchesswhite 			2.0	2.0
+ch_white       detail/rng/strchesswhite 			2.0	2.0
+ch_black       detail/rng/strchessblack 			2.0	2.0
+ch_red       detail/rng/strchessblack 			2.0	2.0
+ch_btrim1       detail/rng/strchesstrim 			1.0	1.0
+ch_btrim1b       detail/rng/strchesstrim 			1.0	1.0
+ch_btrim2       detail/rng/strchesstrim 			1.0	1.0
+ch_btrim2b       detail/rng/strchesstrim 			1.0	1.0
+ch_btrim3       detail/rng/strchesstrim 			1.0	1.0
+ch_btrim3b       detail/rng/strchesstrim 			1.0	1.0
+ch_wtrim1       detail/rng/strchesstrim 			1.0	1.0
+ch_wtrim2       detail/rng/strchesstrim 			1.0	1.0
+ch_wtrim3       detail/rng/strchesstrim 			1.0	1.0
++0ch_abutn       detail/rng/strchesspanels 			1.0	1.0
++ach_abutn       detail/rng/strchesspanels 			1.0	1.0
++0ch_butn       detail/rng/strchesspanels 			1.0	1.0
++ach_butn       detail/rng/strchesspanels 			1.0	1.0
++0enps       detail/rng/strchesspanels 			1.0	1.0
++1enps       detail/rng/strchesspanels 			1.0	1.0
++2enps       detail/rng/strchesspanels 			1.0	1.0
++3enps       detail/rng/strchesspanels 			1.0	1.0
++4enps       detail/rng/strchesspanels 			1.0	1.0
++5enps       detail/rng/strchesspanels 			1.0	1.0
++6enps       detail/rng/strchesspanels 			1.0	1.0
++7enps       detail/rng/strchesspanels 			1.0	1.0
++8enps       detail/rng/strchesspanels 			1.0	1.0
+ch_promo	 detail/rng/strchesspanels 			1.0	1.0
+ch_promo2	 detail/rng/strchesspanels 			1.0	1.0
+ch_sign 	 detail/rng/strchesspanels 			1.0	1.0
++ach_wturn       detail/rng/strchesspanels 			1.0	1.0
++0ch_wturn       detail/rng/strchesspanels 			1.0	1.0
++8enps       detail/rng/strchesspanels 			1.0	1.0
+ch_castle       detail/rng/strchesspanels 			1.0	1.0
+ch_specm       detail/rng/strchesspanels 			1.0	1.0
+help_pg0       detail/rng/strchesspanels 			1.0	1.0
+help_pg1       detail/rng/strchesspanels 			1.0	1.0
+help_pg2       detail/rng/strchesspanels 			1.0	1.0
+leg_bi1       detail/rng/strchesspanels 			1.0	1.0
+leg_bi2       detail/rng/strchesspanels 			1.0	1.0
+leg_kg1       detail/rng/strchesspanels 			1.0	1.0
+leg_kg2       detail/rng/strchesspanels 			1.0	1.0
+leg_kn1       detail/rng/strchesspanels 			1.0	1.0
+leg_kn2       detail/rng/strchesspanels 			1.0	1.0
+leg_pg0       detail/rng/strchesspanels 			1.0	1.0
+leg_pw1       detail/rng/strchesspanels 			1.0	1.0
+leg_pw2       detail/rng/strchesspanels 			1.0	1.0
+leg_qn1       detail/rng/strchesspanels 			1.0	1.0
+leg_qn2       detail/rng/strchesspanels 			1.0	1.0
+leg_rk1       detail/rng/strchesspanels 			1.0	1.0
+leg_rk2       detail/rng/strchesspanels 			1.0	1.0
+
+
+
+
+
+
+
