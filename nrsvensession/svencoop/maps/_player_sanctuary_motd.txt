@@ -1,0 +1,43 @@
+Welcome to the Playermodel Sanctuary (AKA Digital Playermodel Sanctuary, DPS, if you're a nerd)
+Here you can either rest and wait for other players or inspect yourself from all the angles and options to test player animations or conditions
+
+Start the sanctuary by pressing the blue glowing button!
+
+The map is best recomended around 1-8 players, you can probably easily break if multiple people try to use the menu. You either test playermodel shit or wait & chill.
+
+Dont mind the Gabumon, there has to be some overwatch.
+
+What do:
+- SFX\Music - 8 Different tracks to choose from, with Ambience and Volume options, some of them activate special effects
+- Dedicated Barnacle Room - He's lonely, but at least he's in a pretty place (barnacle animations)
+- All weapons available - including Minigun and Shock Roach (weapon animations)
+- A backpack and a crown to check model attachements to models
+- Customize the sanctuary - Toggle objects, pose at mirrors, disable teleporters, spin on the platform, adjust the lighting etc.
+- Check all of the player angles thru whole bunch of cameras, check if they float when crouched and so on.
+- A whole dedicated island to check water animations. Digitally exotic!
+- You can check if the cheeky playermodels that hide stuff depending on the animation under the island.
+- Different sound effects, beep boop.
+- Lots of stuff to mess with, doubles down as a lobby map, in a way!
+- You can toggle text help in-game to check what different camera buttons do, but generally Mouse 1 to select things, Mouse 3 to leave Camera and Hold R to hide things.
+
+Problems:
+- I will probably might or might not fix them, theyre not map breaking and you can still do your playermodel stuff but keep in mind:
+- Due to trigger_camera not having custom FOV option, some cameras might look odd depending on your fov. Recomended FOV for this map is between 70-95.
+- You cannot leave the camera menu by pressing Mouse3, reason being if you select between cameras you technically join one and leave another, which triggers two things, which would trigger the "hide" and "show" cameras options; cant be bothered to make logic around that.
+- Lots of invisible buttons! You may bump into these with thirdperson on.
+- Minigun is a bitch, so you cannot give it rapidly on demand.
+- Mirrors are still fucked - Remapping, chrome and interpolation (not a problem locally) are not a thing on mirrors
+You can fix the remapping and chrome by either turning on gabumon or if you dont want gabumon, just chuck a satchel somewhere in the lab, that will do it.
+Mirrors 3 and 4 might cause performance problems on lower end hardware, especially 4th mirror
+- Menu navigation on multiplayer sucks, you either have to double click sometimes or click multiple times to click on something, especially cameras
+- Probably other imperfections that ive forgot but might piss me off later.
+
+
+Map by SV BOY.
+Gabumon Playermodel by SV BOY
+That one cheeky gabumon art by tabasukotrr
+The scrolling textures were taken from the _RC's Ragemap 2021 part (hurr durr)
+Thanks for FoxPlays for testing stuff and The303 for being.
+
+Most, if not all assets come from Digimon: Cyber Sleuth.
+Digimon is owned by Bandai Namco.

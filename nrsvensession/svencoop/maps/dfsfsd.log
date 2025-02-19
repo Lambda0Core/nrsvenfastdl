@@ -1,0 +1,271 @@
+hlcsg v4.3-VLV34-SC5.26 32-bit (Mar 31 2024)
+Zoner's Half-Life Compilation Tools -- Custom build for Sven Co-op 5.26
+Based on code modifications by Vluzacn (VLV34)
+Based on code modifications by Sean "Zoner" Cavanaugh (4.3)
+Based on Valve's version, modified with permission.
+
+A full list of contributors can be found at http://zhlt.info/credits.html
+
+For help and support please use the official discord channel: https://discord.gg/yZxs6nJs3n
+-----  BEGIN  hlcsg -----
+Command line: "H:/Program Files (x86)/Steam/steamapps/common/Sven Co-op SDK/mapping/compilers/SC-CSG.exe" "G:\SteamLibrary\steamapps\common\Sven Co-op\svencoop\maps\dfsfsd" 
+Arguments: "G:\SteamLibrary\steamapps\common\Sven Co-op\svencoop\maps\dfsfsd" 
+Entering G:\SteamLibrary\steamapps\common\Sven Co-op\svencoop\maps\dfsfsd.map
+
+-= Current hlcsg Settings =-
+Setting                        |  Map value            |  Default value        
+-------------------------------|-----------------------|-----------------------
+Verbose                         [                 off ] [                 off ]
+Log                             [                  on ] [                  on ]
+Developer mode                  [                   0 ] [                   0 ]
+Estimate times                  [                 off ] [                 off ]
+Statistics chart                [                 off ] [                 off ]
+CPU thread count                [                  12 ] [              Varies ]
+CPU process priority            [              Normal ] [              Normal ]
+Texture data memory limit       [            67108864 ] [            67108864 ]
+Lighting data memory limit      [            67108864 ] [            67108864 ]
+
+Entities only                   [                 off ] [                 off ]
+WAD textures                    [                  on ] [                  on ]
+Clipping hull generation        [                  on ] [                 off ]
+Clipping economy mode           [                 off ] [                 off ]
+Clipping hull type              [              Simple ] [              Simple ]
+Custom hull file                [                None ] [                None ]
+Sky brush clipping              [                  on ] [                  on ]
+Minimum surface area            [               0.000 ] [               0.000 ]
+Brush union threshold           [               0.000 ] [               0.000 ]
+NULL texture substitutions file [                None ] [                None ]
+WAD configuration file          [                None ] [                None ]
+WAD configuration name          [                None ] [                None ]
+WAD auto-detect                 [                 off ] [                  on ]
+Strip null texture faces        [                  on ] [                  on ]
+Strip trigger texture faces     [                  on ] [                  on ]
+Optimize engine light entities  [                  on ] [                  on ]
+Convert game_text ANSI to UTF-8 [                  on ] [                  on ]
+Scale the world                 [                None ] [                None ]
+
+
+Using mapfile wad configuration
+Wadinclude list :
+[zhlt.wad]
+
+CreateBrush:
+ (0.00 seconds)
+CSGBrush:
+ (0.01 seconds)
+
+Including Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/zhlt.wad
+ - Contains 1 used texture, 50.00 percent of map (19 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/H2LBRICK.wad
+ - Contains 0 used textures, 0.00 percent of map (196 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/H2LBTMPL.wad
+ - Contains 0 used textures, 0.00 percent of map (299 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/H2LCMPST.wad
+ - Contains 0 used textures, 0.00 percent of map (89 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/H2LCRETE.wad
+ - Contains 0 used textures, 0.00 percent of map (289 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/H2LDEVEL.wad
+ - Contains 0 used textures, 0.00 percent of map (2 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/H2LLIGHT.wad
+ - Contains 0 used textures, 0.00 percent of map (22 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/H2LMETAL.wad
+ - Contains 0 used textures, 0.00 percent of map (402 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/H2LPLSTR.wad
+ - Contains 0 used textures, 0.00 percent of map (222 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/H2LSTONE.wad
+ - Contains 1 used texture, 50.00 percent of map (311 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/barney.wad
+ - Contains 0 used textures, 0.00 percent of map (408 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/decals.wad
+ - Contains 0 used textures, 0.00 percent of map (245 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/gfx.wad
+ - Contains 0 used textures, 0.00 percent of map (7 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/halflife.wad
+ - Contains 0 used textures, 0.00 percent of map (3116 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/svencoop1.wad
+ - Contains 0 used textures, 0.00 percent of map (71 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/svencoop2.wad
+ - Contains 0 used textures, 0.00 percent of map (1 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/tempdecal.wad
+ - Contains 0 used textures, 0.00 percent of map (1 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/tfc.WAD
+ - Contains 0 used textures, 0.00 percent of map (279 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/tfc2.wad
+ - Contains 0 used textures, 0.00 percent of map (395 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/liquids.wad
+ - Contains 0 used textures, 0.00 percent of map (32 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/Opfor.wad
+ - Contains 0 used textures, 0.00 percent of map (332 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/xeno.wad
+ - Contains 0 used textures, 0.00 percent of map (264 textures in wad)
+
+Wad files required to run the map: "H2LBRICK.wad;H2LBTMPL.wad;H2LCMPST.wad;H2LCRETE.wad;H2LDEVEL.wad;H2LLIGHT.wad;H2LMETAL.wad;H2LPLSTR.wad;H2LSTONE.wad;barney.wad;decals.wad;gfx.wad;halflife.wad;svencoop1.wad;svencoop2.wad;tempdecal.wad;tfc.WAD;tfc2.wad;liquids.wad;Opfor.wad;xeno.wad;"
+Texture usage is at 0.02 mb (of 64.00 mb MAX)
+0.03 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v4.3-VLV34-SC5.26 32-bit (Mar 31 2024)
+Zoner's Half-Life Compilation Tools -- Custom build for Sven Co-op 5.26
+Based on code modifications by Vluzacn (VLV34)
+Based on code modifications by Sean "Zoner" Cavanaugh (4.3)
+Based on Valve's version, modified with permission.
+
+A full list of contributors can be found at http://zhlt.info/credits.html
+
+For help and support please use the official discord channel: https://discord.gg/yZxs6nJs3n
+-----  BEGIN  hlbsp -----
+Command line: "H:/Program Files (x86)/Steam/steamapps/common/Sven Co-op SDK/mapping/compilers/SC-BSP.exe" "G:\SteamLibrary\steamapps\common\Sven Co-op\svencoop\maps\dfsfsd" 
+Arguments: "G:\SteamLibrary\steamapps\common\Sven Co-op\svencoop\maps\dfsfsd" 
+
+-= Current hlbsp Settings =-
+Setting                        |  Map value            |  Default value        
+-------------------------------|-----------------------|-----------------------
+Verbose                         [                 off ] [                 off ]
+Log                             [                  on ] [                  on ]
+Developer mode                  [                   0 ] [                   0 ]
+Estimate times                  [                 off ] [                 off ]
+Statistics chart                [                 off ] [                 off ]
+CPU thread count                [                  12 ] [              Varies ]
+CPU process priority            [              Normal ] [              Normal ]
+Texture data memory limit       [            67108864 ] [            67108864 ]
+Lighting data memory limit      [            67108864 ] [            67108864 ]
+
+Leak only mode                  [                 off ] [                 off ]
+Face subdivide size             [                 528 ] [                 528 ]
+Maximum portal node size        [                1024 ] [                1024 ]
+Don't break edges on T-juncs?   [                 off ] [                 off ]
+Don't smooth brinks?            [                 off ] [                 off ]
+Don't process the clipping hull?[                 off ] [                 off ]
+Don't fill outside?             [                 off ] [                 off ]
+Don't fill empty spaces?        [                 off ] [                 off ]
+Don't optimize planes?          [                 off ] [                 off ]
+Don't optimize clip nodes?      [                 off ] [                 off ]
+Don't strip NULL textures?      [                 off ] [                 off ]
+Don't generate hull 2?          [                 off ] [                 off ]
+Show portal boundaries in PTS?  [                 off ] [                 off ]
+
+
+SolidBSP [hull 0] 100 (0.00 seconds)
+BSP generation successful, writing portal file 'G:\SteamLibrary\steamapps\common\Sven Co-op\svencoop\maps\dfsfsd.prt'
+SolidBSP [hull 1] 94 (0.00 seconds)
+Warning: No entities exist in hull 1, no filling performed for this hull
+SolidBSP [hull 2] 81 (0.00 seconds)
+Warning: No entities exist in hull 2, no filling performed for this hull
+SolidBSP [hull 3] 86 (0.00 seconds)
+Warning: No entities exist in hull 3, no filling performed for this hull
+Reduced 258 clipnodes to 224
+Reduced 6 texinfos to 3
+Reduced 2 texdatas to 1 (1204 bytes to 1160)
+Reduced 236 planes to 96
+FixBrinks:
+Increased 224 clipnodes to 224.
+0.03 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v4.3-VLV34-SC5.26 32-bit (Mar 31 2024)
+Zoner's Half-Life Compilation Tools -- Custom build for Sven Co-op 5.26
+Based on code modifications by Vluzacn (VLV34)
+Based on code modifications by Sean "Zoner" Cavanaugh (4.3)
+Based on Valve's version, modified with permission.
+
+A full list of contributors can be found at http://zhlt.info/credits.html
+
+For help and support please use the official discord channel: https://discord.gg/yZxs6nJs3n
+-----  BEGIN  hlvis -----
+Command line: "H:/Program Files (x86)/Steam/steamapps/common/Sven Co-op SDK/mapping/compilers/SC-VIS.exe" "G:\SteamLibrary\steamapps\common\Sven Co-op\svencoop\maps\dfsfsd" 
+Arguments: "G:\SteamLibrary\steamapps\common\Sven Co-op\svencoop\maps\dfsfsd" 
+  26 portalleafs
+  45 numportals
+
+-= Current hlvis Settings =-
+Setting                        |  Map value            |  Default value        
+-------------------------------|-----------------------|-----------------------
+Verbose                         [                 off ] [                 off ]
+Log                             [                  on ] [                  on ]
+Developer mode                  [                   0 ] [                   0 ]
+Estimate times                  [                 off ] [                 off ]
+Statistics chart                [                 off ] [                 off ]
+CPU thread count                [                  12 ] [              Varies ]
+CPU process priority            [              Normal ] [              Normal ]
+Texture data memory limit       [            67108864 ] [            67108864 ]
+Lighting data memory limit      [            67108864 ] [            67108864 ]
+
+Fast mode                       [                 off ] [                 off ]
+Full mode                       [                 off ] [                 off ]
+
+
+BasePortalVis:
+ (0.00 seconds)
+LeafThread:
+ (0.00 seconds)
+average leafs visible: 14
+g_visdatasize:119  compressed from 104
+0.00 seconds elapsed
+
+-----   END   hlvis -----
+
+
+
+hlrad v4.3-VLV34-SC5.26 32-bit (Mar 31 2024)
+Zoner's Half-Life Compilation Tools -- Custom build for Sven Co-op 5.26
+Based on code modifications by Vluzacn (VLV34)
+Based on code modifications by Sean "Zoner" Cavanaugh (4.3)
+Based on Valve's version, modified with permission.
+
+A full list of contributors can be found at http://zhlt.info/credits.html
+
+For help and support please use the official discord channel: https://discord.gg/yZxs6nJs3n
+-----  BEGIN  hlrad -----
+Command line: "H:/Program Files (x86)/Steam/steamapps/common/Sven Co-op SDK/mapping/compilers/SC-RAD.exe" "G:\SteamLibrary\steamapps\common\Sven Co-op\svencoop\maps\dfsfsd" 
+Arguments: "G:\SteamLibrary\steamapps\common\Sven Co-op\svencoop\maps\dfsfsd" 
+
+-= Current hlrad Settings =-
+Setting                        |  Map value            |  Default value        
+-------------------------------|-----------------------|-----------------------
+Verbose                         [                 off ] [                 off ]
+Log                             [                  on ] [                  on ]
+Developer mode                  [                   0 ] [                   0 ]
+Estimate times                  [                 off ] [                 off ]
+Statistics chart                [                 off ] [                 off ]
+CPU thread count                [                  12 ] [              Varies ]
+CPU process priority            [              Normal ] [              Normal ]
+Texture data memory limit       [            67108864 ] [            67108864 ]
+Lighting data memory limit      [            67108864 ] [            67108864 ]
+
+Fast mode                       [                 off ] [                 off ]
+Extra mode                      [                 off ] [                 off ]
+Visibility matrix               [              Sparse ] [              Sparse ]
+Bounces                         [                   8 ] [                   8 ]
+Ambient world light (R G B)     [   0.000 0.000 0.000 ] [   0.000 0.000 0.000 ]
+Light clipping threshold        [             188.000 ] [             188.000 ]
+Circus mode?                    [                 off ] [                 off ]
+Disable sunlight spread angles? [                 off ] [                 off ]
+Disable opaque light flags?     [                 off ] [                 off ]
+Smoothing t.hold for blending   [              50.000 ] [              50.000 ]
+Smoothing t.hold diff textures  [                 N/A ] [                 N/A ]
+Patch size for normal textures  [              64.000 ] [              64.000 ]
+Patch size for t-light faces    [              32.000 ] [              32.000 ]
+Scale patches with texture?     [                  on ] [                  on ]
+Patch subdividing?              [                  on ] [                  on ]
+Lighting threshold before black [               0.010 ] [               0.010 ]
+Direct lighting threshold       [              10.000 ] [              10.000 ]
+Direct lighting scale           [               1.000 ] [               1.000 ]
+Disable interpolation?          [                 off ] [                 off ]
+Global fade                     [               1.000 ] [               1.000 ]
+Global gap distance for t-light [               0.000 ] [               0.000 ]
+Global light scale (R G B)      [   2.000 2.000 2.000 ] [   2.000 2.000 2.000 ]
+Global gamma (R G B)            [   0.550 0.550 0.550 ] [   0.550 0.550 0.550 ]
+Ambient sunlight shade contrib. [               1.000 ] [               1.000 ]
+Disable sky light being global? [                 off ] [                 off ]
+Use incremental transfer list?  [                 off ] [                 off ]
+Dump light patches?             [                 off ] [                 off ]
+Colour jitter (R G B)           [         0.0 0.0 0.0 ] [         0.0 0.0 0.0 ]
+Monochromatic jitter (R G B)    [         0.0 0.0 0.0 ] [         0.0 0.0 0.0 ]
+Custom shadows with bounces?    [                 off ] [                 off ]
+Enable

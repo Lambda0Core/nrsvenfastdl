@@ -1,0 +1,224 @@
+hlcsg v4.3-VLV34-SC5.26 32-bit (Mar 31 2024)
+Zoner's Half-Life Compilation Tools -- Custom build for Sven Co-op 5.26
+Based on code modifications by Vluzacn (VLV34)
+Based on code modifications by Sean "Zoner" Cavanaugh (4.3)
+Based on Valve's version, modified with permission.
+
+A full list of contributors can be found at http://zhlt.info/credits.html
+
+For help and support please use the official discord channel: https://discord.gg/yZxs6nJs3n
+-----  BEGIN  hlcsg -----
+Command line: "H:/Program Files (x86)/Steam/steamapps/common/Sven Co-op SDK/mapping/compilers/SC-CSG.exe" "G:\SteamLibrary\steamapps\common\Sven Co-op\svencoop\maps\test" 
+Arguments: "G:\SteamLibrary\steamapps\common\Sven Co-op\svencoop\maps\test" 
+Entering G:\SteamLibrary\steamapps\common\Sven Co-op\svencoop\maps\test.map
+
+-= Current hlcsg Settings =-
+Setting                        |  Map value            |  Default value        
+-------------------------------|-----------------------|-----------------------
+Verbose                         [                 off ] [                 off ]
+Log                             [                  on ] [                  on ]
+Developer mode                  [                   0 ] [                   0 ]
+Estimate times                  [                 off ] [                 off ]
+Statistics chart                [                 off ] [                 off ]
+CPU thread count                [                  12 ] [              Varies ]
+CPU process priority            [              Normal ] [              Normal ]
+Texture data memory limit       [            67108864 ] [            67108864 ]
+Lighting data memory limit      [            67108864 ] [            67108864 ]
+
+Entities only                   [                 off ] [                 off ]
+WAD textures                    [                  on ] [                  on ]
+Clipping hull generation        [                  on ] [                 off ]
+Clipping economy mode           [                 off ] [                 off ]
+Clipping hull type              [              Simple ] [              Simple ]
+Custom hull file                [                None ] [                None ]
+Sky brush clipping              [                  on ] [                  on ]
+Minimum surface area            [               0.000 ] [               0.000 ]
+Brush union threshold           [               0.000 ] [               0.000 ]
+NULL texture substitutions file [                None ] [                None ]
+WAD configuration file          [                None ] [                None ]
+WAD configuration name          [                None ] [                None ]
+WAD auto-detect                 [                 off ] [                  on ]
+Strip null texture faces        [                  on ] [                  on ]
+Strip trigger texture faces     [                  on ] [                  on ]
+Optimize engine light entities  [                  on ] [                  on ]
+Convert game_text ANSI to UTF-8 [                  on ] [                  on ]
+Scale the world                 [                None ] [                None ]
+
+
+Using mapfile wad configuration
+Wadinclude list :
+[zhlt.wad]
+
+CreateBrush:
+ (0.00 seconds)
+CSGBrush:
+ (0.02 seconds)
+
+Including Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/zhlt.wad
+ - Contains 0 used textures, 0.00 percent of map (19 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/H2LBRICK.wad
+ - Contains 1 used texture, 12.50 percent of map (196 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/H2LBTMPL.wad
+ - Contains 1 used texture, 12.50 percent of map (299 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/H2LCMPST.wad
+ - Contains 0 used textures, 0.00 percent of map (89 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/H2LCRETE.wad
+ - Contains 0 used textures, 0.00 percent of map (289 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/H2LDEVEL.wad
+ - Contains 0 used textures, 0.00 percent of map (2 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/H2LLIGHT.wad
+ - Contains 0 used textures, 0.00 percent of map (22 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/H2LMETAL.wad
+ - Contains 2 used textures, 25.00 percent of map (402 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/H2LPLSTR.wad
+ - Contains 0 used textures, 0.00 percent of map (222 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/H2LSTONE.wad
+ - Contains 2 used textures, 25.00 percent of map (311 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/barney.wad
+ - Contains 1 used texture, 12.50 percent of map (408 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/decals.wad
+ - Contains 0 used textures, 0.00 percent of map (245 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/gfx.wad
+ - Contains 0 used textures, 0.00 percent of map (7 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/halflife.wad
+ - Contains 1 used texture, 12.50 percent of map (3116 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/svencoop1.wad
+ - Contains 0 used textures, 0.00 percent of map (71 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/svencoop2.wad
+ - Contains 0 used textures, 0.00 percent of map (1 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/tempdecal.wad
+ - Contains 0 used textures, 0.00 percent of map (1 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/tfc.WAD
+ - Contains 0 used textures, 0.00 percent of map (279 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/tfc2.wad
+ - Contains 0 used textures, 0.00 percent of map (395 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/liquids.wad
+ - Contains 0 used textures, 0.00 percent of map (32 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/Opfor.wad
+ - Contains 0 used textures, 0.00 percent of map (332 textures in wad)
+Using Wadfile: /SteamLibrary/steamapps/common/Sven Co-op/svencoop/xeno.wad
+ - Contains 0 used textures, 0.00 percent of map (264 textures in wad)
+
+Wad files required to run the map: "H2LBRICK.wad;H2LBTMPL.wad;H2LCMPST.wad;H2LCRETE.wad;H2LDEVEL.wad;H2LLIGHT.wad;H2LMETAL.wad;H2LPLSTR.wad;H2LSTONE.wad;barney.wad;decals.wad;gfx.wad;halflife.wad;svencoop1.wad;svencoop2.wad;tempdecal.wad;tfc.WAD;tfc2.wad;liquids.wad;Opfor.wad;xeno.wad;"
+Texture usage is at 0.21 mb (of 64.00 mb MAX)
+0.06 seconds elapsed
+
+-----   END   hlcsg -----
+
+
+
+hlbsp v4.3-VLV34-SC5.26 32-bit (Mar 31 2024)
+Zoner's Half-Life Compilation Tools -- Custom build for Sven Co-op 5.26
+Based on code modifications by Vluzacn (VLV34)
+Based on code modifications by Sean "Zoner" Cavanaugh (4.3)
+Based on Valve's version, modified with permission.
+
+A full list of contributors can be found at http://zhlt.info/credits.html
+
+For help and support please use the official discord channel: https://discord.gg/yZxs6nJs3n
+-----  BEGIN  hlbsp -----
+Command line: "H:/Program Files (x86)/Steam/steamapps/common/Sven Co-op SDK/mapping/compilers/SC-BSP.exe" "G:\SteamLibrary\steamapps\common\Sven Co-op\svencoop\maps\test" 
+Arguments: "G:\SteamLibrary\steamapps\common\Sven Co-op\svencoop\maps\test" 
+
+-= Current hlbsp Settings =-
+Setting                        |  Map value            |  Default value        
+-------------------------------|-----------------------|-----------------------
+Verbose                         [                 off ] [                 off ]
+Log                             [                  on ] [                  on ]
+Developer mode                  [                   0 ] [                   0 ]
+Estimate times                  [                 off ] [                 off ]
+Statistics chart                [                 off ] [                 off ]
+CPU thread count                [                  12 ] [              Varies ]
+CPU process priority            [              Normal ] [              Normal ]
+Texture data memory limit       [            67108864 ] [            67108864 ]
+Lighting data memory limit      [            67108864 ] [            67108864 ]
+
+Leak only mode                  [                 off ] [                 off ]
+Face subdivide size             [                 528 ] [                 528 ]
+Maximum portal node size        [                1024 ] [                1024 ]
+Don't break edges on T-juncs?   [                 off ] [                 off ]
+Don't smooth brinks?            [                 off ] [                 off ]
+Don't process the clipping hull?[                 off ] [                 off ]
+Don't fill outside?             [                 off ] [                 off ]
+Don't fill empty spaces?        [                 off ] [                 off ]
+Don't optimize planes?          [                 off ] [                 off ]
+Don't optimize clip nodes?      [                 off ] [                 off ]
+Don't strip NULL textures?      [                 off ] [                 off ]
+Don't generate hull 2?          [                 off ] [                 off ]
+Show portal boundaries in PTS?  [                 off ] [                 off ]
+
+
+SolidBSP [hull 0] 78 (0.00 seconds)
+Warning: === LEAK in hull 0 ===
+Entity light @ (   0,   0, 128)
+Error: 
+  A LEAK is a hole in the map, where the inside of it is exposed to the
+(unwanted) outside region.  The entity listed in the error is just a helpful
+indication of where the beginning of the leak pointfile starts, so the
+beginning of the line can be quickly found and traced to until reaching the
+outside. Unless this entity is accidentally on the outside of the map, it
+probably should not be deleted.  Some complex rotating objects entities need
+their origins outside the map.  To deal with these, just enclose the origin
+brush with a solid world brush
+
+Leak pointfile generated
+
+SolidBSP [hull 1] 121 (0.01 seconds)
+Warning: === LEAK in hull 1 ===
+Entity light @ (   0,   0, 128)
+SolidBSP [hull 2] 114 (0.00 seconds)
+Warning: === LEAK in hull 2 ===
+Entity light @ (   0,   0, 128)
+SolidBSP [hull 3] 121 (0.00 seconds)
+Warning: === LEAK in hull 3 ===
+Entity light @ (   0,   0, 128)
+Reduced 353 clipnodes to 340
+Reduced 57 texinfos to 53
+Reduced 8 texdatas to 8 (356 bytes to 356)
+Reduced 432 planes to 180
+FixBrinks:
+Increased 340 clipnodes to 340.
+0.05 seconds elapsed
+
+-----   END   hlbsp -----
+
+
+
+hlvis v4.3-VLV34-SC5.26 32-bit (Mar 31 2024)
+Zoner's Half-Life Compilation Tools -- Custom build for Sven Co-op 5.26
+Based on code modifications by Vluzacn (VLV34)
+Based on code modifications by Sean "Zoner" Cavanaugh (4.3)
+Based on Valve's version, modified with permission.
+
+A full list of contributors can be found at http://zhlt.info/credits.html
+
+For help and support please use the official discord channel: https://discord.gg/yZxs6nJs3n
+-----  BEGIN  hlvis -----
+Command line: "H:/Program Files (x86)/Steam/steamapps/common/Sven Co-op SDK/mapping/compilers/SC-VIS.exe" "G:\SteamLibrary\steamapps\common\Sven Co-op\svencoop\maps\test" 
+Arguments: "G:\SteamLibrary\steamapps\common\Sven Co-op\svencoop\maps\test" 
+>> There was a problem compiling the map.
+>> Check the file G:\SteamLibrary\steamapps\common\Sven Co-op\svencoop\maps\test.log for the cause.
+
+-----   END   hlvis -----
+
+
+
+hlrad v4.3-VLV34-SC5.26 32-bit (Mar 31 2024)
+Zoner's Half-Life Compilation Tools -- Custom build for Sven Co-op 5.26
+Based on code modifications by Vluzacn (VLV34)
+Based on code modifications by Sean "Zoner" Cavanaugh (4.3)
+Based on Valve's version, modified with permission.
+
+A full list of contributors can be found at http://zhlt.info/credits.html
+
+For help and support please use the official discord channel: https://discord.gg/yZxs6nJs3n
+-----  BEGIN  hlrad -----
+Command line: "H:/Program Files (x86)/Steam/steamapps/common/Sven Co-op SDK/mapping/compilers/SC-RAD.exe" "G:\SteamLibrary\steamapps\common\Sven Co-op\svencoop\maps\test" 
+Arguments: "G:\SteamLibrary\steamapps\common\Sven Co-op\svencoop\maps\test" 
+>> There was a problem compiling the map.
+>> Check the file G:\SteamLibrary\steamapps\common\Sven Co-op\svencoop\maps\test.log for the cause.
+
+-----   END   hlrad -----
+
+
+

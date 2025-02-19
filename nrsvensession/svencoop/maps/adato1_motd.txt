@@ -1,0 +1,68 @@
+Another Day At The Office (ADATO) part 1 - v1.0.4
+
+Map Specifications:
+Minimum number of players: 2
+Recommended number of players: 4-5
+Size: Large
+Difficulty: Hard
+
+Story:
+You and your business partners are working for a top secret weapons factory. Upon arriving to work one day and working at your desk for a few hours, you feel that something is off.
+You realize that you have not been badgered by other employees for quite some time now. You look outside your office to find everything eerily quiet. Where is everyone? Why is the loading bay empty?
+As you ponder these questions, your phone buzzes in your coat pocket. Instinctively, you pull it out and glance at the screen. You rub your eyes. Could it be true? The security department has reported several unauthorized personnel throughout the facility.
+They are considered to be armed and dangerous. Security recommends that you and your coworkers immediately evacuate the building. They must think so little of you! "Stupid security department thinks I cannot take care of myself!" you mutter angrily,
+"I'll wipe those brutes out of this facility myself!". With your mind made up, you gather your courage and your coworkers to dispatch the hostile forces permeating throughout the facility.
+
+Notes:
+-This map has a very large number of enemies and it is highly recommended that you stay together in order to increase chances of survival.
+-You will encounter hacked security turrets and ninja-like thieves among many other unsavory individuals. Be on the lookout!
+-Keep your eyes peeled for secrets: they are scattered throughout the facility and can contain very useful items.
+-This can be a very difficult map. Don't get discouraged if you cannot complete it the first time through.
+-Have fun!!
+
+Credits:
+---Map Creator:
+BonkTurnip
+---Primary Play Testers:
+LePui
+Aero
+---Blind Play Testers:
+Chapstick
+---Special Thanks:
+Sven Co-op Community Discord:
+H2
+Outerbeast
+RaptorSKA
+Sparks
+The303
+Sven Manor:
+For providing such great documentation for mapping. :D
+
+Changelog:
+v1.0.4
+-func_detail/func_wall added for a few bits of complex geometry
+-fixed a glitch where library repelling enemies were not triggering game_counter properly
+-added "monsters can't" flag to library doors
+-added delay between monsters dying and cutscene triggering
+-added trigger_push to the dreaded "robo room" to move robos away from pipe
+-improved visibility of lights above completed rooms
+-replaced library keycard with item_security
+-changed blocked spawn handling for dust mite in library closet
+v1.0.3b
+-added an additional checkpoint
+-added trigger_changelevel to adato2
+v1.0.2b
+-added some smooth clipping for the voltigore fight
+-added weapons near checkpoints
+-fixed some lasers not hurting the player
+v1.0.1b
+-added sparks to electrified rails
+-fixed a door clipping into another area
+-added message hinting at what to do in the first area
+-removed a func_pushable in the janitor's closet
+-added a hidden long jump module
+-fixed some secret cheese
+-nerfed the Double Agent's health
+-added some 'shocking' effects
+-made robot room's objective clearer (hopefully)
+-fixed an embarassing typo ;D

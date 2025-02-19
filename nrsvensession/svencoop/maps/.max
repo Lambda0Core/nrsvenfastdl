@@ -1,0 +1,76 @@
+{
+"classname" "worldspawn"
+"scversion2" "526"
+"freeroam" "0"
+"defaultteam" "0"
+"newunit" "1"
+"gametitle" "0"
+"startdark" "0"
+"MaxRange" "32768"
+"sounds" "1"
+"mapversion" "220"
+"wad" "/SteamLibrary/steamapps/common/Sven Co-op/svencoop/CHANGELEVEL.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/Opfor.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/bmt.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/bridge3.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/coopcris.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/cs_bdog.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/deathmission.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/decals.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/decay.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/descrcl.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/dmc.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/extension.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/fade.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/gfx.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/gmantowers.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/halflife.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/hsads.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/jailbreak2.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/jp_dev.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/judgement.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/kk1.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/kk2.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/last.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/lcd_display.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/liquids.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/megamonstermassacre.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/mistral.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/mommamesa.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/neilm2.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/neilm4.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/neilm5.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/neilm_sc.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/nightmare.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/nih_fort.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/nih_hex_interface.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/nih_silowad.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/nw.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/nw_xeno.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/op4ctf.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/osprey.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/pizza_ya_san.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/poke646.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/quarter.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/rede.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/sandstone.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/sc_mazing.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/sc_tetris.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/scopfor.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/scrpg2.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/sectore.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/snd.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/spraypaint.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/stadium.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/stadium4.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/storage.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/submerged.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/submerged_addons.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/svencoop1.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/svencoop2.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/svencoop_training.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/tempdecal.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/tfc.WAD;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/tfc2.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/th_escape.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/vendetta.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/xeno.wad;/SteamLibrary/steamapps/common/Sven Co-op/svencoop/zhlt.wad;/SteamLibrary/steamapps/common/Sven Co-op/test mpas/textures/H2LBRICK.wad;/SteamLibrary/steamapps/common/Sven Co-op/test mpas/textures/H2LBTMPL.wad;/SteamLibrary/steamapps/common/Sven Co-op/test mpas/textures/H2LCMPST.wad;/SteamLibrary/steamapps/common/Sven Co-op/test mpas/textures/H2LCRETE.wad;/SteamLibrary/steamapps/common/Sven Co-op/test mpas/textures/H2LDEVEL.wad;/SteamLibrary/steamapps/common/Sven Co-op/test mpas/textures/H2LLIGHT.wad;/SteamLibrary/steamapps/common/Sven Co-op/test mpas/textures/H2LMETAL.wad;/SteamLibrary/steamapps/common/Sven Co-op/test mpas/textures/H2LPLSTR.wad;/SteamLibrary/steamapps/common/Sven Co-op/test mpas/textures/H2LSTONE.wad"
+"_generator" "J.A.C.K. 1.1.3773 Freeware (vpHalfLife)"
+{
+( 288 256 160 ) ( 288 256 0 ) ( 288 -256 160 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 256 -256 160 ) ( 256 -256 0 ) ( 256 256 160 ) C1A0_WX [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 288 -256 160 ) ( 288 -256 0 ) ( 256 -256 160 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 256 256 160 ) ( 256 256 0 ) ( 288 256 160 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 288 -256 160 ) ( 256 -256 160 ) ( 288 256 160 ) NULL [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( 256 256 0 ) ( 256 -256 0 ) ( 288 256 0 ) NULL [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( -256 256 160 ) ( -256 256 0 ) ( -256 -256 160 ) C1A0_WX [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -288 -256 160 ) ( -288 -256 0 ) ( -288 256 160 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -256 -256 160 ) ( -256 -256 0 ) ( -288 -256 160 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -288 256 160 ) ( -288 256 0 ) ( -256 256 160 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -256 -256 160 ) ( -288 -256 160 ) ( -256 256 160 ) NULL [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -288 256 0 ) ( -288 -256 0 ) ( -256 256 0 ) NULL [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 256 288 160 ) ( 256 288 0 ) ( 256 256 160 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -256 256 160 ) ( -256 256 0 ) ( -256 288 160 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 256 256 160 ) ( 256 256 0 ) ( -256 256 160 ) C1A0_WX [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -256 288 160 ) ( -256 288 0 ) ( 256 288 160 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 256 256 160 ) ( -256 256 160 ) ( 256 288 160 ) NULL [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -256 288 0 ) ( -256 256 0 ) ( 256 288 0 ) NULL [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 256 -256 160 ) ( 256 -256 0 ) ( 256 -288 160 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -256 -288 160 ) ( -256 -288 0 ) ( -256 -256 160 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 256 -288 160 ) ( 256 -288 0 ) ( -256 -288 160 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -256 -256 160 ) ( -256 -256 0 ) ( 256 -256 160 ) C1A0_WX [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 256 -288 160 ) ( -256 -288 160 ) ( 256 -256 160 ) NULL [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -256 -256 0 ) ( -256 -288 0 ) ( 256 -256 0 ) NULL [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 256 256 192 ) ( 256 256 160 ) ( 256 -256 192 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -256 -256 192 ) ( -256 -256 160 ) ( -256 256 192 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 256 -256 192 ) ( 256 -256 160 ) ( -256 -256 192 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -256 256 192 ) ( -256 256 160 ) ( 256 256 192 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 256 -256 192 ) ( -256 -256 192 ) ( 256 256 192 ) NULL [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -256 256 160 ) ( -256 -256 160 ) ( 256 256 160 ) C2A4E_W1 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+{
+( 256 256 0 ) ( 256 256 -32 ) ( 256 -256 0 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -256 -256 0 ) ( -256 -256 -32 ) ( -256 256 0 ) NULL [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 256 -256 0 ) ( 256 -256 -32 ) ( -256 -256 0 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -256 256 0 ) ( -256 256 -32 ) ( 256 256 0 ) NULL [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( 256 -256 0 ) ( -256 -256 0 ) ( 256 256 0 ) C1A0_LABFLRC [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+( -256 256 -32 ) ( -256 -256 -32 ) ( 256 256 -32 ) NULL [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
+}
+}
+{
+"classname" "info_player_start"
+"angles" "0 0 0"
+"origin" "-192 0 37"
+}
+{
+"classname" "light"
+"_falloff" "0"
+"_fade" "1.0"
+"spawnflags" "0"
+"style" "0"
+"_light" "255 255 128 200"
+"origin" "0 0 128"
+}

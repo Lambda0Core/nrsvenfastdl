@@ -1,0 +1,91 @@
+//  'M' metal, 'V' ventilation, 'D' dirt, 'S' slosh liquid
+//  'T' tile, 'G' grate, 'W' wood, 'P' computer, 'Y' glass
+//  'F' flesh, 'O' snow. (Concrete is the default)
+// NOTE: only the first 12 characters of the texture name are used
+// NOTE: a maximum of 2048 textures may be tagged in this file
+
+
+
+// V VENTTEXTURE_
+// D DIRTTEXTURE_
+// G GRATETEXTURE
+// M METALTEXTURE
+// S SLOSHTEXTURE
+// T TILETEXTURE_
+// W WOODTEXTURE_
+// P COMPTEXTURE_
+// Y GLASSTEXTURE
+// F FLESHTEXTURE
+// O SNOWTEXTURE_
+
+
+
+//==============
+// Laundromat - sc_laundromat_v2.wad
+
+// D Dirts
+
+D dirtwall3
+D zensand1
+
+// M Metals
+
+M +ABRDLY2_TREAD
+M BRDLY2_BACK1
+M BRDLY2_BTILE
+M BRDLY2_FRNT1
+M BRDLY2_SIDE1
+M DDR_dncepad
+M DDRspeakerf
+M FRIDGEFRONT
+M FRIDGESIDE
+M metal_panel0
+M SH2cantops
+M SH2Grosswall
+M SH2MSpikeW1
+M SH2MSpikeW2
+M trailer_b
+M trailer_f
+M trailer_r
+M trailer_s
+M truck_f
+M truck_s
+M truck_s2
+M truck_t
+
+// T Tiles
+
+T SH2LongTile1
+T SH2LongTile2
+T SH2TileWall1
+T SH2TileWall2
+
+// W Woods
+
+W WallTexture
+W backroomsW
+W jukeboxfront
+W jukeboxsideN
+W jukeboxsidev
+W grand_prize
+W SH2BulletW1
+W SH2BulletW2
+M SH2FancyF
+W spkr_big
+W spkr_bigb
+W spkr_bigs
+W spkr_bigt
+W wall_paper
+W wall_paperA
+W WallTexture
+
+//Y Glasses
+
+Y DDRsign
+Y DDRspeakerf
+
+// O Snows
+
+//==============
+
+

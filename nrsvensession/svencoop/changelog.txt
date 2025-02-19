@@ -1,0 +1,169 @@
+
+– v1.0
+10/9/2019
+Initial release
+
+– v1.1
+11/9/2019
+Cleaned some files (i will do a more deep clean-up soon)
+
+– v1.2
+12/9/2019
+echoes09a: removed a small black cube.
+echoes23: fixed a bug that could cause crashes on linux servers.
+
+– v1.3
+15/9/2019
+More file cleaning: removed some files and added others, more models and sounds are implemented.
+Fixed text not showing properly on multiplayer.
+echoes09a,echoes10: fixed some dead civilians models.
+echoes12: the last garg sequence was improved.
+echoes22: fixed the turrets looking like sentrys.
+echoes23: fixed the osprey lights.
+
+– v1.3.1
+16/9/2019
+echoes15: fixed a bug that in specific circustances can break the exit elevator.
+
+– v1.3.2
+21/9/2019
+echoes24: fixed bug that could cause players respawning in a wrong area.
+
+– v1.4
+22/9/2019
+general code cleaning: this result in improvement of performance.
+echoes04: fixed the animation of the platform scientist. Now the map play the correct music.
+echoes13: fixed the respawns.
+echoes15: fixed elevator doors breaking when blocked.
+echoes19: fixed bug that can cause the booth to blow up at a wrong time.
+echoes20: fixed some animations.
+echoes23: fixed some text.
+
+– v1.4.1
+24/9/2019
+echoes12: fixed problems with respawns.
+
+– v1.4.2
+26/9/2019
+echoes15: now when you enter the last elevator after a few seconds the map will change to the next one. This will help with the elevator button bug.
+echoes24: changed the system that freezes players for the gman sequences. This will eliminate the "whirlwind" effect on players.
+
+– v1.5
+2/10/2019
+fixed some entities/animations appearing/moving at wrong positions.
+echoes07: fixed a ladder.
+echoes10: restored the gman sequence.
+
+– v1.6
+12/10/2019
+fixed a filename in the .res files.
+added survival support.
+
+– v1.7
+1/5/2020
+fixed the messed up global replacement files.
+implemented a few more models and sounds.
+made a clean up of extra files.
+turned all sounds to .ogg format to reduce filesize.
+modelguy was used to merge models with external files.
+echoes9a: fixed missing music.
+echoes19: fixed bug that allowed to start the military sequence at a wrong time.
+
+– v1.8
+13/5/2020
+some entities were disappearing sometimes. Now this is fixed, hopefully.
+
+– v1.8.1
+15/5/2020
+fixed some weapon models not showing properly and other minor stuff.
+
+– v1.9
+20/5/2020
+implemented some more models and sounds.
+fixed text colour.
+fixed flyers animations.
+echoes01: fixed the constrution guy animation.
+echoes02: fixed otis apperance.
+echoes05: fixed the black scientist animation.
+echoes09b: fixed missing music.
+echoes16: fixed the tram in the cinematic.
+echoes23: made changes to match the echoes 1.4 version.
+
+– v1.10
+24/12/2020
+echoes09a: fixed pushable box getting stuck with some bones.
+
+– v1.11
+1/11/2021
+fixed some entities moving with a wrong offset due to changes on entities behavior.
+eye scanners now work correctly.
+added more models/sounds/sprites.
+echoes17: fixed scientist and scanner wrong animations.
+echoes24: fixed missing dead mossman. Fixed missing lights arround the ships nearby the borealis.
+some minor improvements.
+3/11/2021
+echoes14b: fixed the animations around the soldiers.
+
+– v1.12
+2/1/2022
+maps merged, reduced from 29 maps to 15.
+the beams that activate the sentrys now are more accurate.
+echoes-1: fixed sky texture.
+echoes-3: fixed problem that could cause the garg to not appear.
+echoes-6: fixed bug that may cause to block the path in the area where you are chased by the "friendly" npc.
+echoes-7: fixed door not opening/closing correctly. Fixed garg stuck caused by bullsquids.
+
+– v1.13
+6/1/2022
+fixed animations failing to play randomly on npc.
+
+– v1.14
+20/2/2022
+echoes-8: fixed door crosing again after picking the crossbow again.
+echoes-13: fixed tank rocket sound.
+(thanks levi for bug reports).
+
+– v1.15
+28/2/2022
+fixed some sounds reach.
+echoes-0: fixed truck driver jittering.
+echoes-1: fixed scientist playing wrong animation.
+echoes-6: fixed red fading effect playing at a wrong time. Fixed initial loadout not being updated in the flooded area.
+echoes-7: fixed elevators/lifts smashing issues.
+
+– v1.16
+27/11/2022
+fixed env_model_coop script causing some animations reseting under some circunstances. (thanks ak47toh for reporting the issue)
+
+- v1.17
+26/5/2024
+fixed human grunt displaying wrong weapons when possible.
+added more custom sounds: ground and ladder sounds. (disabled by dafault)
+added save/load primitive system (disabled by default)
+added changelevel sprites (disabled by default)
+replaced trigger_changesky with custom script.
+adjusted many sounds.
+echoes-1: fixed scientist reacting to player deaths.
+echoes-3: ajusted spawn points to prevent fall damage.
+echoes-3: added changes to block skip path without using the box.
+echoes-3: added changes to deal with antiblock plugin killing players bug.
+echoes-4: fixed zombie not attacking players.
+echoes-5: fixed otis droping his handgun and fixed a rare bug that cause to appear both alive and dead
+echoes-6: now all players loses their weapons when the zombie throws the barrel at the player. 
+echoes-6: fixed paralized houndeye.
+echoes-6: added weapons and more ammo to compensate the loss after weapons being removed.
+echoes-8: fixed broken lift respawn.
+
+- v1.18
+2/6/2024
+echoes-6_1: fixed "broken" water.
+edhoes-7: fixed elevator door bug when blocked.
+
+- v1.18.1
+11/8/2024
+echoes-3: added a small change in the .cfg file to remove the small fall damage that affects games with 1 hp plugin.
+
+
+
+
+

@@ -1,0 +1,22 @@
+
+ _                               _                                    _   
+| |      __ __   ____   __| |_ __ __   ___ __   __ _ _| |__
+| |     / _` | |  | | ' _ \/  _` |  '__/ _ \ | '_ ` _ \ / _` ||_  __|
+| |__ | (_| | |_| |  | | |  (_|  |  |  | (_) ||  | |  | | |  (_| |  |  | 
+|____\_,_|\_,_|_| |_|\__,_|_|   \__/ |_| |_| |_|\_,_|   |_|
+
+
+	sc_laundromat
+	sc_laundromat_v2                                    September 11th, 2024
+
+by:	GrandmasterJ
+
+	It is very late and you have work in the morning. As you lay down to sleep
+you suddenly realize that you have no clean clothes for tomorrow. There is a place
+nearby where clothes can be washed all night . . .
+
+	Objectives:
+	1.	Do your laundry.
+	2.	Wait for your laundry to be done.
+
+Thank you for playing my map, I hope you like it.
