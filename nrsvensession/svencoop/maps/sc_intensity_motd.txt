@@ -1,0 +1,17 @@
+============================================================================================
+MAP: sc_intensity (SVEN Co-op)
+AUTHOR: Derek St. Amand (HeAdCrAb KILLA) - headcrab_killa@hotmail.com
+============================================================================================
+
+INTENSITY - The time has come to finally end the hostile alien invasion of Earth. A reactor located in the center of the "Beta" Lambda Reactor Complex will provide enough of an energy surge to deactivate the alien rifts. As a team, you must enter the complex and power up the reactor using coolant pumps, pressure valves, and energy beacons. Once the reactor is fully powered, activate the core to destroy the rifts. Once the reactor shuts down, your mission will be dubbed successful. But be warned, there is one more enemy that you must encounter before the reactor can be activated...the military. Military forces have infested the area and have no intentions of letting you and your team enter the complex to activate the core. -Good Luck!
+
+============================================================================================
+
+ADDITIONAL MAP INFO - 
+
+NAME: Intensity
+SIZE: Medium
+IDEAL PLAYERS: 1-6
+EDITOR USED: Hammer 3.4
+TOTAL COMP. TIME: 2 Days
+(2005)

@@ -1,0 +1,41 @@
+"models/v_crowbar.mdl" "models/rngweapons/v_rngmace.mdl"
+"models/w_crowbar.mdl" "models/rngweapons/w_rngmace.mdl"
+"models/p_crowbar.mdl" "models/rngweapons/p_rngmace.mdl"
+
+"models/v_9mmar.mdl" "models/rngweapons/kyper_kuutio/v_microgun.mdl"
+"models/w_9mmar.mdl" "models/rngweapons/kyper_kuutio/wee/w_microgun.mdl"
+"models/p_9mmar.mdl" "models/rngweapons/kyper_kuutio/pee/p_microgun.mdl"
+
+"models/v_shotgun.mdl" "models/rngweapons/kyper_kuutio/v_exoshotgun.mdl"
+"models/w_shotgun.mdl" "models/rngweapons/kyper_kuutio/wee/w_exoshotgun.mdl"
+"models/p_shotgun.mdl" "models/rngweapons/kyper_kuutio/pee/p_exoshotgun.mdl"
+
+"models/v_357.mdl" "models/rngweapons/kyper_kuutio/v_gausspistol.mdl"
+"models/w_357.mdl" "models/rngweapons/kyper_kuutio/wee/w_gausspistol.mdl"
+"models/p_357.mdl" "models/rngweapons/kyper_kuutio/pee/p_gausspistol.mdl"
+
+"models/v_crossbow.mdl" "models/rngweapons/kyper_kuutio/v_kyperbow.mdl"
+"models/w_crossbow.mdl" "models/rngweapons/kyper_kuutio/wee/w_kyperbow.mdl"
+"models/p_crossbow.mdl" "models/rngweapons/kyper_kuutio/pee/p_kyperbow.mdl"
+
+"models/v_gauss.mdl" "models/rngweapons/kyper_kuutio/v_electrogun.mdl"
+"models/w_gauss.mdl" "models/rngweapons/kyper_kuutio/wee/w_electrogun.mdl"
+"models/p_gauss.mdl" "models/rngweapons/kyper_kuutio/pee/p_electrogun.mdl"
+
+"models/v_egon.mdl" "models/rngweapons/kyper_kuutio/v_omegacannon.mdl"
+"models/w_egon.mdl" "models/rngweapons/kyper_kuutio/wee/w_omegacannon.mdl"
+"models/p_egon.mdl" "models/rngweapons/kyper_kuutio/pee/p_omegacannon.mdl"
+
+"models/v_rpg.mdl" "models/rngweapons/kyper_kuutio/v_mininuke.mdl"
+"models/w_rpg.mdl" "models/rngweapons/kyper_kuutio/wee/w_mininuke.mdl"
+"models/p_rpg.mdl" "models/rngweapons/kyper_kuutio/pee/p_mininuke.mdl"
+"models/p_rpg_r.mdl" "models/rngweapons/kyper_kuutio/pee/p_mininuke_r.mdl"
+"models/w_rpgammo.mdl" "models/rngweapons/kyper_kuutio/wee/w_mininuke_ammo.mdl"
+"models/rpgrocket.mdl" "models/rngweapons/kyper_kuutio/wee/mininuke_rocket.mdl"
+
+"models/v_spore_launcher.mdl" "models/rngweapons/kyper_kuutio/v_sporegun.mdl"
+"models/w_spore_launcher.mdl" "models/rngweapons/kyper_kuutio/wee/w_sporegun.mdl"
+"models/p_spore_launcher.mdl" "models/rngweapons/kyper_kuutio/pee/p_sporegun.mdl"
+"models/spore.mdl" "models/rngweapons/kyper_kuutio/wee/sporewhite.mdl"
+
+

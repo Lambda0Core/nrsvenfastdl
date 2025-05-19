@@ -1,0 +1,36 @@
+Updates for Classic 1.5
+_______________________
+
+* Moved around a few 9mm clips, so they were easier to see.
+
+* Health packs now give you 5 hp.
+
+* Armor packs now give you 2 ap.
+
+* Fixed monster names.
+
+* Spider Mastermind is now worth 3000 hp, like in Doom.
+
+* Barons are now worth 2500 hp.
+
+* Greatly dropped the number of monsters in the outdoor area.  This should
+reduce the lag by a great deal.
+
+* Bumped up the light quality from a chop of 32 to 28.
+
+* Added new .res file (If the file is not correct, or does not give you the
+file names correctly, post in the map showcase forum on the sven coop forums 
+IMEADIATELY!)
+
+* Added this brand new updates file.
+
+* Added a little bit of health to later ares of the map (chapter 3.)
+
+* Added a few 9mm clips to chapter 3.
+
+* Added a few missing slime objects.
+
+* Changed the credits.txt file, and the buts.txt file.
+
+-G.Ballblue
+03/04/05

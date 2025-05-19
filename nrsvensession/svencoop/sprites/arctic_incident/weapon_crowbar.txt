@@ -1,3 +1,0 @@
-2
-weapon			640 arctic_incident/640hud_ai01	0	99	170	45
-weapon_s		640 arctic_incident/640hud_ai02	0	99	170	45

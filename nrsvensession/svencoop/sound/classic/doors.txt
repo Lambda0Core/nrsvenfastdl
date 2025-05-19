@@ -1,0 +1,4 @@
+"doors/doormove1.wav" "classic/Doors/doormove1.wav"
+"doors/doormove2.wav" "classic/Doors/doormove2.wav"
+"doors/doorstop1.wav" "classic/Doors/doorstop1.wav"
+"doors/doorstop2.wav" "classic/Doors/doorstop2.wav" 

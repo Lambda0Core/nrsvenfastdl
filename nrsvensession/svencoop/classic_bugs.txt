@@ -1,0 +1,63 @@
+Known Bugs in Classic 1.5
+_________________________
+
+These are the bugs that I know of in Classic.  Be careful!!
+As CScarlet once said, RTFM!!!!!
+
+* DO NOT noclip in the map!  If you hit an entity that plays music, you
+may play the music out of order!  The result will be having multiple
+music tracks playing at once!
+
+* DO NOT run ripent on my map!  That's right 60-megabyte-file, don't
+hack this map!  The entity count is kinda high, almost at 800 (the
+sven-coop limit is 900, and that's excluding the temporary 500 entity
+limit.)  If you do, you may accidentally go over the entity limit,
+causing the map to explode.
+
+* DO NOT run the map in software mode! Steam/Half-life WILL CRASH!  Run
+the map in OpenGL or Direct3D.  OpenGL is the best one you can pick,
+but Direct3D also works, but the framerates are a little lower (my
+head is still vibrating from seeing what the map looks like in Direct
+3D.)
+
+* PLEASE DO kill all the monsters you come across!  This map has a large
+amount of monsters in it -- if you run past monsters like how you would
+in normal DOOM, then don't blame me if your server explodes!  There
+really isn't enough monsters to make a server crash -- if you run past
+monsters though, something could happen.  I designed the map so monsters
+would spawn as you progress through the map, so if anything happens,
+it's not my fault.
+
+* Towards the end of the map, when "Hiding the Secrests" plays, 
+something once happened where I fired a rocket, passed through it, and 
+the game crashed.  Probably one of thoserare-out-no-where game crash 
+bugs, but I'm still going to mention it.
+
+* The e_polygon count in the spawn area is a little high.  This is a
+heads up!
+
+* Recomended players is 4-8.
+
+* Please stay away from the hidden developer room in the map.  If you
+fart around inside there, you could accidentally teleport yourself to
+somewhere in the map, causing multiple music tracks to run at the same
+time!
+
+* The amount of lightdata in the map is set for 9 megs.  This MAY
+cause performance issues on slow computers!
+
+Updates for Classic 1.5
+_______________________
+
+* The lag issue in the outdoor area of the map should be changed.  There
+should be a lot less lag there.
+
+* Run the map on a fast server!  This map doesn't do to well on slow servers!
+As long as your server isn't dead slow, the map should be okay.  I lowered
+the lag issue BECAUSE slow servers couldn't handle that one part.
+
+* Lighting quality is mildly better.  Lowered the original 10 meg lightdata
+amount to 9 megs.
+
+-G.Ballblue
+03/04/05

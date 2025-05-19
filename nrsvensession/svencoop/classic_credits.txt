@@ -1,0 +1,473 @@
+Classic Arcade FPS 1.5
+______________________
+
+G.Ballblue:  I made classic with my own 2 bare hands.  Period.  There
+is a lot of stuff that other people made, so this is a credits file
+listing all the credits for everything... ever...  Hints are at the
+end of this file!  If you get stuck somewhere in the map, check there.
+I listed what I considered the "toughest" parts of the map in that
+area.
+
+===============
+General Credits
+===============
+
+
+Map by:  G.Ballblue
+
+Music from:  DOOM -- Hi-Definition versions from DOOM WORLD, and
+DOOM DEPOT
+
+Doom Depot -- http://doomdepot.doom2.net/
+Doom World -- http://www.doomworld.com/
+
+
+Models by
+_________
+
+One Eyed Newt
+Ancient!
+Valve
+
+Textures by:
+____________
+
+The DOOM2 re-texture guys -- (no, I'm not going to do specific
+names, but I DID NOT make the textures :) )
+
+http://switch.to/doom2textures
+
+Well, that was their website, but when I checked, I got "page could
+not be displayed."  Sorry.  I was lazy and didn't book mark the site
+:\
+
+Reskins by
+__________
+
+G.Ballblue
+
+Sounds by
+_________
+
+id software
+G.Ballblue  (just a couple :D )
+
+
+================
+Specific Credits
+================
+
+
+
+G.Ballblue ------------------------ Classic Arcade FPS
+G.Ballblue ------------------------ Sound Editing
+G.Ballblue ------------------------ w_crowbar reskin
+G.Ballblue ------------------------ p_crowbar reskin
+G.Ballblue ------------------------ v_crowbar reskin
+G.Ballblue ------------------------ Two Grunt reskins
+G.Ballblue ------------------------ PINKYYY!!!!!!!!!!
+G.Ballblue ------------------------ Alien slave reskin (Imp)
+G.Ballblue ------------------------ Big Mamma reskin (Spider Demon)
+G.Ballblue ------------------------ v_9mmhandgun reskin
+G.Ballblue ------------------------ All 3 rocket launcher reskins
+G.Ballblue ------------------------ All 3 Shotgun reskins
+G.Ballblue ------------------------ v_ to p_ conversion for BFG
+G.Ballblue ------------------------ Tau Cannon reskin
+G.Ballblue ------------------------ Weapon origin modifying
+G.Ballblue ------------------------ Map debugging & tweaking
+G.Ballblue ------------------------ .res file
+Valve ----------------------------- Shotgun ammo box replacement
+One Eyed Newt --------------------- BFG 9000 Gluon Gun Replacement
+Ancient! -------------------------- Fists Crowbar Replacement
+DOOM2 Retexture Guys -------------- Textures
+Doomworld ------------------------- Hi-Def DOOM music
+Doom Depot ------------------------ Supplying Hi-Def Music
+id software ----------------------- Original music
+id software ----------------------- DOOM
+id software ----------------------- Sound
+Qwerty ---------------------------- Map hosting at HLRSE.net
+Frenchy --------------------------- Great tester, great freind
+Cozmic Shredder ------------------- Great tester, great freind
+LaggedRabbit ---------------------- Saying WTF!! Right here -->
+(all in good fun lagged, just jokin' around :D)
+
+Thanks to all the players who enjoyed my map through version 1.0, and was
+willing to put up with the lag issue mid way through map.
+
+The machine gun model was created by somebody else, not ME! I did not
+center the origin of the weapon because I thought the model looked so
+good :D  Unfortunately, I cannot give credit to the person who made the
+model because he did not include a credits file in the .zip!!!!
+
+Great model man, whoever you are =D
+
+Also, I wanna thank the guy who made the "hellfire alien_slave".  Great
+models, the both of you!
+
+Special thanks goes to FRAGGARD and FISHY from the Snarkpit!  They helped
+me with a very important compile issue!  Thank you, you two!
+
+Music (in order, as played in the map)
+______________________________________
+
+At Doom's Gate
+The Imp's Song
+Nobody Told Me About id
+Untitled
+The Demon's from Adrian's Pen
+I Sawed the Demons
+Sign of Evil
+Hiding the Secrets
+Intermission from DOOM
+
+
+
+Classic Arcade FPS was made with:
+
+WorldCraft 3.3
+ZHLT P Series
+Nemesis's Batch Compiler
+Wally
+HLMV
+Nem's HLMV
+Milkshape 3D 1.7.3
+Creative Recorder
+Creative Wave Studio
+GoldWave
+Notepad                         =D
+
+
+
+
+
+All sounds, models, and other files, are property of their respective
+creators.  Do not duplicate the files used in this map without given
+credit.
+
+Classic™ is a trademark of G.Ballblue™.  This map cannot be duplicated
+by anyone else with the exception of the Sven Coop team or mappacks.
+(for mappacks). No one else can take credit for the work that was put
+into this map, with the exception of the names listed in the credits
+file.  Names listed in the credits file can take credit for whatever
+file they created, and nothing more.
+
+id software™ is a resigtered trademark of id software™ (duh).  DOOM™
+is a registered trademark of id software™.  99% of the sounds used 
+in this map are files created by id software™, and cannot be used 
+unless credit is given.  Monsters, and textures, were 
+duplicated -- original monsters and textures were created by 
+id software™, used in DOOM™ and DOOM2™.
+Hi-Def music is a duplication of the original midi music files,
+created by id software™ -- used in DOOM™, DOOM2™, and Final DOOM™.
+(and whatever wad that uses the music on planet earth :D )
+
+Valve™ is a registered trademark of Valve™ (duh). 
+
+And lastly...
+
+Sven Co-op™ is a trademark of the Sven Coop team.  They made one of the
+best modes on planet Earth, and should be given the respect they
+deserve.
+
+============
+Beta Changes
+============
+
+G.Ballblue:  I changed a lot of things over the development of Classic.
+Some stuff was cut, some things were added, some things were
+moddified.  Enjoy!
+
+Original Concept
+________________
+
+  In the original design of Classic, the Containment Area did not
+exist.  Also, The Imp's Song was not originally planned to go in the
+map.  It was added because I wanted to extend the amount of music
+played while in game -- there were numerous other songs added later
+on, but The Imp's Song was the only addition that made it into the 
+final version.
+  In the Nuclear Plant area, (part where Imp's Song is played) there
+were originally hanging acloves on the walls.  These were removed
+in the much later versions of Classic, mainly because the w_poly was
+being driven up the walls in that area!  Also, when the realistic
+water was added, the framerate began to drop so much, that the acloves
+really REALLY had to go.  There was also a visual bug where you could
+see these acloves floating in the sky.
+  Originally, the only thing that was going to be "reskinned" about
+the weapons was the actual physical gun.  I was playing around with
+reskinning the arms with the v_9mmhandgun model, and well, I turned 
+them green, and I decided to make all the models like that!
+
+  Numerous alpha screens can be seen where the guns were not fully
+skinned.  My default handgun, and shotgun models, can be seen in only
+a couple of them.
+
+1st Revision
+____________
+
+  In the room where the players started, I originally had 2 
+solider zombies placed there -- this was just to make sure the game 
+did not get drab.  I (wisely) removed them.
+  In the next room, where you encounter the hoarde of zombies, I
+originally only had about 8 - 10 zombies in there.  They were lined
+up perfectly in two nice neat rows.  I later changed Sven-Coop so it
+would render the low polygon zombies instead, this allowed me to place
+about three times the zombies in the room.  So, should I have been 
+worried that some players are using the high polygon models?
+From what I have read on the forums, most people seem to like the low
+definition ones.  Anyways.
+
+  In the first room of the Nuclear Plant, where you encounter the
+Pinky for the first time, there was intended to be about 5-6 Pinkys in
+that room!  However, due to the high polygon count
+in all areas, I dropped the Pinky count down to one. 
+I later bumped it up to 1 Trooper, and 2 Pinkys.
+
+2nd Revision
+____________
+
+  With a lack of ideas to finish up the Nuclear Plant, I had the 
+sudden urge to add the Containment area!  And I did.  As you know,
+when you aproach the button that raises the elevator to the Nuclear
+Plant, a hidden door opens and about 4 Troopers jump out at you.  As
+you know, there is a door behind the secret door -- this was originally
+intended to be an "alternate route" that you did not have to take,
+but the players who did brave it would be rewarded with lots of goodies,
+and so on.
+  The door on the left, was originally a secret area with three
+buttons in it.  If you pressed the wrong button, you got smashed,
+and you heard a .wav file saying "You are an idiot! Ho ho ho!".
+Oh, and the door behind you closed and locked, so you couldn't go back
+inside and try again :P
+  If you pressed the correct button, the door behind the players when
+you start the map would open up, with a hexagonal room that "me stuff"
+all around it, and the BFG 9000.
+
+3rd Revision
+____________
+
+  The original Final Boss was to be a Cyber Demon -- Gargantua.
+The original area style would be a combination of the ending outdoor
+area in E1M8, and E2M8, playing the music track "Facing the Spider."
+However, I decided to revise this, and construct the final boss area
+so it more closely resembled the final boss level of all of DOOM.
+The premise was, the players would first teleport into the long
+hallway, and procede down it.  Once the battle began, the room in the
+middle of arena would unlock, and the players would be able to teleport
+into it, and various other areas around that portion of the map.
+
+(You can see the 4 teleports the players would use in the "big hallway"
+in the 3rd chapter of the game.  I locked the doors in the end, but
+you can still see them.  The white teleport is still operational, but
+you have to noclip to get to it.)
+
+  The boss battle would flow somewhat like this:  the players would
+fight all the mosters in the map, from weakest to hardest, in wavs of
+four.  Like so:  4 Troopers, 4 Saregents, 4 Imps, 4 Pinkys, 4 Lost
+Souls, 4 Baron of Hells, 4 Spider Demons, and the grand finale would
+be a Cyber Demon, which would probably be a Baby Gargantua with the
+hull size jumbo sized (so handgun bullets and buckshot, etc, could
+damage it).  The Cyber Demon's flame damage would probably be
+100 HP per second.  Deadly, just like the real thing.
+
+Sadly, I chose to cut the boss battle, due to allocblock: full trouble.
+
+Later Revisions
+_______________
+
+  Some of the map had to be cut down in size, due to a huge inflation
+in leaf_threads.  I got an allocblock: full error numerous times
+throughout the development of this map -- for some incredible reasons!
+The original ending of the map featured the "bunny scene" where I 
+would use third person cameras to make the scene unfold in front of the
+players.  At the time, of me writing this, I am reluctant to put the
+scene in or not, since I am afraid that even the slightest altercation
+to the solid geometry structure of the map could cause another
+allocblock: full error.
+
+  In the last area in the game, before the final boss, I planned on
+having a room that was designed like something in the level
+"House of Pain" from the third chapter of DOOM.  The room is hard
+to describe, so I won't.  If you look closely, you can see the sections
+of that level that I implemented in the map (the red hallway that burns
+you, and the room with 8 buttons, but only 4 doors.)  Instead of
+having the player rounding a corner and blamo! Game over, I had 
+planned to make a multi-floored room with monsters high above, down low,
+far away, up close, and some interesting architecture.  I HATE LEAF
+THREADS!  :(
+
+==============
+After Thoughts
+==============
+
+  I want to thank all (if anybody :( ) the Sven-Coop players who were
+enthusiatic about my map through its development time -- 3/4 of a year!
+I want to thank all the Sven-Coop players who played my map, enjoyed
+it or not, thank you for playing it!  You made very happy just by
+doing that!
+Since the map is currently not done, (this is a random guess) if 
+anyone puts this map on their server as a dedicated map, I would like
+to thank them to.
+If this map makes it into the BOMS, then I wanna fall over and drool
+on the floor =D
+If this map makes it as an official map, then I wanna thank every
+freakin' person on the planet!!!!
+I would like to say thank you to any of the SnarkPit members who were
+enthusiastic about my map, and posted their comments about it.
+I would like to thank the two members at the SnarkPit who "watched"
+my map.
+
+Lastly, I would like to thank all the fans of the original DOOM,
+and any DOOM fans who enjoyed my map, and I would like to thank id
+software for creating the most legendary video game of all time.
+
+
+
+
+
+*sob* Goodbye!
+
+-G.Ballblue
+
+
+***THE STORY OF DOOM***
+_______________________
+
+You're a marine, one of Earth's toughest, hardened in combat and trained
+for action. Three years ago you assaulted a superior officer for 
+ordering his soldiers to fire upon civilians. He and his body cast were 
+shipped to Pearl Harbor, while you were transferred to Mars, home of the
+Union Aerospace Corporation. The UAC is a multi-planetary conglomerate 
+with radioactive waste facilities on Mars and its two moons, Phobos and
+Deimos. With no action for fifty million miles, your day consisted of 
+suckin' dust and watchin' restricted flicks in the rec room.
+
+For the last four years the military, UAC's biggest supplier, has used 
+the remote facilities on Phobos and Deimos to conduct various secret 
+projects, including research on inter-dimensional space travel. So far 
+they have been able to open gateways between Phobos and Deimos, 
+throwing a few gadgets into one and watching them come out the other. 
+Recently however, the Gateways have grown dangerously unstable. 
+Military "volunteers" entering them have either disappeared or been 
+stricken with a strange form of insanity-babbling vulgarities, 
+bludgeoning anything that breathes, and finally suffering and 
+untimely death of full body explosion. Matching heads with torsos to 
+send home to the folks became a full-time job. Latest military 
+reports state that the research is suffering a small set-back, 
+but everything is under control.
+A few hours ago, Mars received a garbled message from Phobos. 
+"We require immediate military support. Something fraggin' evil is 
+coming out of the Gateways! Computer systems have gone berserk!" The 
+rest was incoherent. Soon Afterwards, Deimos simply vanished from the 
+sky. Since then, attempts to establish contact with either moon have 
+been unsuccessful. You and your buddies, the only combat troop for 
+fifty million miles were sent up pronto to Phobos. You were ordered to 
+secure the perimeter of the base while the rest of the team went inside. 
+For several hours, your radio picked up the sounds of combat: 
+guns firing, 
+men yelling orders, 
+screams, 
+bones cracking, 
+then finally, 
+silence. 
+Seems your buddies are dead.
+
+It's Up To You. 
+
+Things aren't looking too 
+good.
+
+You'll never navigate off the planet on your own. Plus, all the heavy 
+weapons have been taken by the assault team leaving you with only a 
+pistol. If only you could get your hands around a plasma rifle or even 
+a shotgun you could take a few down on your way out. Whatever killed 
+your buddies deserves a couple of pellets in the forehead. Securing 
+your helmet, you exit the landing pod. Hopefully you can find more 
+substantial fire power somewhere within the station. As you walk 
+through the main entrance of the base, you hear animal like growls 
+echoing throughout the distant corridors. They know your here. 
+
+There's no turning back now. 
+
+***EDITED FOR SVEN-COOP VERSION***
+
+The few survivors of what just happened emerge from the front door
+of Hangar2.  "It's hell in there!"  One of them shouts.  "Most of us
+didn't make it through the first room!  And any of us who did, are like
+some kind freagin' dead bodies'-- with guns!"
+
+So, everyone's dead.
+
+The group only appears to have their handguns with them, not to
+mention their berserker packs.  It looks like they used all of their
+beefy guns up -- seeing as though everyone walked in with shotguns and
+rocket launchers, and are now emerging with the crappiest of weapons.
+You know it's bad.  If you hadn't figured out that things were bad
+by this point, then mayber it's time to get a new hero.  Anyhow,
+marines don't just run out of ammo in a combat situation -- there's got
+to be a lot of them in there.  A whole lot of them.  Whatever "them" is.
+
+The marine in charge pulls out a map of the base -- he then informs 
+everyone that the base doesn't look like it should.  Caves are appearing
+under ground, rooms are flooding with toxic slime, normal walls
+are creating light when they shouldn't, and computer labs are being 
+turned into death traps.  The only part of the base that isn't affected,
+is the small escape pod located God-knows-where on the western side of
+the base.  Past the Hangar, past the caves, past the outter walls of
+the base, past the house of hell.
+
+Your team only hopes they can get back to Earth before hell invades.
+But hey, you're the heros -- everything is going to be okay... right?
+
+
+Created by G.Ballblue
+e-mail: gballblue@msn.com
+msn:    gballblue@msn.com
+Forum name:  G.Ballblue
+SnarkPit name: G.Ballblue
+
+This file was finished on the date of 02/18/05
+-G.Ballblue
+
+
+=====
+Hints
+=====
+
+Hint 1:  If you get stuck in the Containment Area, try looking for some
+crates that appear to be upside-down.
+
+Hint 2:  Conserve your machinegun ammo!  That thing will really
+come in handy when you need to mow down a bunch of imps, or lesser
+monsters!
+
+Hint 3:  In the Outter Perimeter, just before you walk off one of those
+high ledges and take 10 damage, try crouching, THEN slide off the ledge.
+Release the crouch button before you hit the ground.
+
+Hint 4:  In the Hell Keep, try luring the monsters through the smooshers
+instead of actually fighting them with your weapons.  It may take a 
+while to kill them, but it will pay off in the end, assuming you can
+dodge their attacks.
+
+Hint 5*:  (DON'T READ THIS IF YOU DO NOT WANT TO SPOIL A SECRET!!!)
+While you are in the House of Pain, you will notice that there are
+8 buttons hanging on 2 pillars.  Strangely, there are only 5 doors.
+Press all 8 of them, then backtrack to where you fought the spider 
+demon.  Remember that stack of crates in the hallway?  Jump up high
+enough so you can see the top of the highest crate.
+
+Now, remember that room in the Containment Area that had a gun 
+just out of jumping reach from you?
+
+Yep.  You know what I'm talking about -- you know what to do.
+
+*If you notice, in the room with 8 buttons, there are 3 imps standing
+next to 3 buttons.  I originally designed the game so that you had to
+press THOSE THREE BUTTONS FIRST, then you could press the other five.
+And of course, if you did that, you would receive the wonderful prize
+that you just spoiled (lamer!)  If you pressed any of the other 5
+buttons first, then you would not be able claim your "prize."
+However, due to a bug in scripting with the buttons and entities, the
+original design did not work.  I decided to put a 4th, (9th) button
+in that was harder to find and see.

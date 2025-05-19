@@ -1,0 +1,3 @@
+"items/9mmclip1.wav" "classic/Items/9mmclip1.wav"
+"items/gunpickup2.wav" "Classic/Items/gunpickup2.wav"
+"items/smallmedkit1.wav" "Classic/Items/smallmedkit1.wav"

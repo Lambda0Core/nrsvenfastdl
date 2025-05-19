@@ -1,0 +1,28 @@
+Sc_office                      Realease Date:24/01/08       Version: 1.0                   
+======================================================================================       
+STORY:
+
+It's late night, you're working in the office, but then something strange happens, some-
+thing that will change you forever. Sc_office is a medium lenght adventure map, full of
+sorprises that you will never know what's coming next. I assure you'll enjoy it as we
+did creating it, have fun and i bet you not to die in the hole level ;) .
+
+---------------------------------------------------------------------------------
+AUTHORS: Santo and Jose Fung
+---------------------------------------------------------------------------------
+
+NOTES:
+
+This map is inspired in the mod Night at the Office, a really fun office adventure. It
+uses it's wad "noffice" so install it, it comes already in the package.
+
+---------------------------------------------------------------------------------
+
+CONTACT: (Bugs, Info, Future Projects)
+
+Santo: santoeldiablo@hotmail.com
+Jose Fung: josefung_durand@hotmail.com
+
+---------------------------------------------------------------------------------
+
+Night at the Office Wad used under license.

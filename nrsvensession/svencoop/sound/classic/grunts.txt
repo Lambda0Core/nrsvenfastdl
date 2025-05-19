@@ -1,0 +1,3 @@
+"hgrunt/gr_mgun1.wav" "classic/Zombieman/gr_mgun1.wav"
+"hgrunt/gr_mgun2.wav" "classic/Zombieman/gr_mgun1.wav"
+"weapons/sbarrel1.wav" "classic/Zombieman/sbarrel1.wav"

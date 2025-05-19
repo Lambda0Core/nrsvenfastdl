@@ -1,0 +1,12 @@
+Deathmatch Classic: Sven Co-op remake
+By Zorik
+=========
+Welcome to Deathmatch Classic. Gameplay is similar to Quake. Player who scores the most frags under 30 minutes wins. Maximum number of frags is 50.
+To start the vote in lobby, press on a map picture or button.
+All maps should be fine with sizable amount of player, but for convenience I split them in 3 sections by recommended player count:
+-Left(Green): 2-5 players;
+-Middle(Yellow): 6-12 players;
+-Right(Red): >12 players.
+Script version can be checked by typing ".dmc_version" in chat.
+Players can enter observer mode by typing ".dmc_spectate" but lose 1 score point.
+Default looped Half-life soundtrack was replaced with UNT99 soundtrack.
